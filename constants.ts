@@ -6,7 +6,7 @@ export const PERSONAL_INFO: PersonalInfo = {
   phone: "+226 64 85 04 02",
   email: "simontapsoba264@gmail.com",
   languages: ["Anglais (Bien)", "Français (Bien)", "Mooré (Bien)"],
-  philosophy: "Dans le monde du numérique on ne peut pas garantir de tout savoir, il y a chaque fois de la nouveauté. Je ne connais qu'une portion qui fait des étincelles, donc chaque jour j'apprends pour être à la page. J'espère être utile avec ce que je sais.",
+  philosophy: "Dans le monde du numérique on ne peut pas garantir de tout savoir, il y a chaque fois de la nouveauté. En tant que autodidacte Je ne maîtrise qu'une portion qui fait des étincelles, donc chaque jour j'apprends pour être à la page. J'espère être util avec ce que je sais.",
   otherInfo: "J'accompagne les investisseurs qui veulent s'installer ici au Burkina Faso. J'ai suivi une formation sur la gouvernance de l'internet."
 };
 
